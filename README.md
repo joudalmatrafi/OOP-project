@@ -41,7 +41,7 @@ The system allows the user to add students, display all students, generate a GPA
 
 ## UML Diagram
 
-![UML Diagram](uml-diagram.jpg)
+![UML Diagram](uml image.jpg)
 
 ## How to Run
 1. Open the project in Apache NetBeans.
