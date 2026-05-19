@@ -39,6 +39,10 @@ The system allows the user to add students, display all students, generate a GPA
 - Apache NetBeans
 - GitHub
 
+## UML Diagram
+
+![UML Diagram](uml-diagram.jpg)
+
 ## How to Run
 1. Open the project in Apache NetBeans.
 2. Open the Main.java file.
